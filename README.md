@@ -41,10 +41,12 @@ To run the **Guess The Number** game on your local machine, follow these steps:
    java Main
 
 ##Technologies Used
+
 Java: Programming language used for building the game.
 Swing: GUI toolkit used for creating the game interface.
 
 ##Game Logic
+
 The game generates a random number between 1 and 100.
 You have 5 attempts to guess the number.
 After each guess, you will receive feedback about whether your guess is too high, too low, or correct.
